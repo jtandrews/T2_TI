@@ -1,5 +1,5 @@
 task :default => ("my_namespace:all")
-namespace :asd do
+namespace :my_namespace do
 	desc "asdasda"
 	task hola1: :environment do
 		puts 'Test1'
