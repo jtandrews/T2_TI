@@ -5,4 +5,4 @@ rvm:
 deploy:
   provider: heroku
   api_key: "195ba018-4c56-4ca3-937b-a6a07ff6342b"
-  app: my-app-123
+  app: T2_TI
